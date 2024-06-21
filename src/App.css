@@ -1,0 +1,7 @@
+.ant-tabs-nav-list {
+  gap: 50px !important;
+}
+
+.ant-list-split .ant-list-item {
+  border-block-end: none !important;
+}
